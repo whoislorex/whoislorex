@@ -1,5 +1,5 @@
 <h1 align="center">lorex</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <p align="left">
 </p>
 
