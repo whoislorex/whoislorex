@@ -1,4 +1,4 @@
-<h1 align="center">lorex</h1>
+<h1 align="center">@whoislorex</h1>
 <h3 align="center">Fullstack Developer</h3>
 <p align="left">
 </p>
