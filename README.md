@@ -1,5 +1,5 @@
 <h1 align="center">@whoislorex</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">live in turkey</h3>
 <p align="left">
 </p>
 
